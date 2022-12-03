@@ -94,4 +94,4 @@ client.help_command = MyHelp()
 async def on_ready():
     print(f'{client.user.name} is ready to use')
 
-client.run('MTA0ODQ5MzAzNjIxODM2ODA3Mw.GlqDpn.XbE4B5SONW94LiWQ-bLUdhBB86c2tMbz6xp4Dk')
+client.run('TOKEN')
